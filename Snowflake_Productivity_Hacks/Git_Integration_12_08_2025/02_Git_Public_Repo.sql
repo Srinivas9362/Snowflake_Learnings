@@ -8,19 +8,6 @@ show warehouses;
 
 use database git_demo;
 
--- create or replace database git_demo;
-
--- --syntax
--- create or replace secret my_github_secret
--- type=passoword
--- username = '<github Account name>'
--- password = '<Git Hub access token>';
-
--- --original syntax with parameters
--- create or replace secret my_github_secret
--- type = password
--- username = 'Srinivas9362'
--- password = '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';
 
 show secrets;
 
