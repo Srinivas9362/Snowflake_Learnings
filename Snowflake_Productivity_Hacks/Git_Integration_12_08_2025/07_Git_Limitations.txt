@@ -1,0 +1,8 @@
+--not possible to push code from the Snowflake
+--feature is in public Preview (Not in GA)
+--Show, Desc or List commands show limited info
+--Git integration possible over public internet
+--Repository object is not sharable object
+--Repository stage inside Application Package
+--Native Application does not support REpo Object
+--Repository git stage slower than internal stage
