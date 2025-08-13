@@ -45,3 +45,5 @@ select
     dense_rank() over (partition by mkt_segment order by acct_bal desc) as rank_number,
     *
     from  customer;
+
+--this is sample file
